@@ -43,7 +43,7 @@ function Layout() {
       </main>
 
       <footer className="site-footer">
-        <p>&copy; 2026 Addis Eats &bull; Bole, Addis Ababa &bull; Powered by Zustand</p>
+        <p>&copy; 2026 Addis Eats &bull; Bole, Addis Ababa</p>
       </footer>
     </div>
   );
